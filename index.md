@@ -24,7 +24,7 @@ Blame me for the music via embedded video bit
   <div id="titlecontent">
 
     <p class="center">EPISODE IV<br />
-      A NEW HOPE FOR CSS3</p>
+      A3</p>
 
     <p>It is a period of vendor war.</p>
 
